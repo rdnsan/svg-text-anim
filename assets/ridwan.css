@@ -9,3 +9,11 @@ body {
     height: 100vh;
     background-color: #333;
 }
+
+#logo {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   animation: fill 0.5s ease forwards 5s;
+}
