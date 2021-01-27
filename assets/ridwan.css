@@ -105,3 +105,21 @@ body {
         fill: lightseagreen;
     }
 }
+
+@media (max-width: 1024px){
+    #logo {
+        width: 810px;
+    }
+}
+
+@media (max-width: 768px){
+    #logo {
+        width: 640px;
+    }
+}
+
+@media (max-width: 425px){
+    #logo {
+        width: 300px;
+    }
+}
