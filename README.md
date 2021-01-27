@@ -1,2 +1,1 @@
-# svg-text-anim
-SVG Text Animation 
+## SVG Text Animation for Splash Screen or Loader using <img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width=20> + <img src="https://i.pinimg.com/originals/5c/28/0e/5c280ea8cb9504b5d28d46693bb890a4.png" width=20>
